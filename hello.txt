@@ -1,7 +1,7 @@
-hello myOneGit 1111
-hello myOneGit
+hello myOnGit 1111
 hello myOneGit
 hello myOneGit
 hello myOneGit
 hello myOneGit  master
-hello myOneGit
+hello myOneGit  hot-fix
+hello myOneGit  hot-fix
